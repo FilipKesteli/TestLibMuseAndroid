@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_vector_test.xml",
+        "source": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_skip_white_24px.xml",
+        "source": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\exploded-aar\\com.github.paolorotolo\\appintro\\4.0.0\\res\\drawable-anydpi-v21\\ic_skip_white_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Valemate\\libmuse_6.0.2\\android\\examples\\TestLibMuseAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_voice_search_api_material.xml"
+    }
+]
